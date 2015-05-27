@@ -62,3 +62,5 @@ target/
 #My project
 .idea/
 db.sqlite3
+
+MainTestApp/migrations
